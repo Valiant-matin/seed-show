@@ -1,0 +1,2 @@
+<? if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die(); ?>
+<p class="footer__link" data-aos="fade-left"><span>Address: </span>394030, Voronezh, Bakuninskiy pereulok, 11, office 411</p>

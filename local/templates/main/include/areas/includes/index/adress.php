@@ -1,0 +1,2 @@
+<? if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die(); ?>
+<p class="footer__link" data-aos="fade-left"><span>Адрес: </span>394030, г. Воронеж, Бакунский переулок, д. 11, офис 411</p>
